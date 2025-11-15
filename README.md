@@ -18,7 +18,7 @@ A system designed to monitor potential flood conditions using simple environment
 
 ---
 
-### 2. Smart Pill Dispenser
+### 2. Smart Pill Dispenser  
 A prototype designed to sense user interaction with a pill container using a UV sensor.  
 - **Technology Used:** Arduino / Raspberry Pi, UV Sensor, Python  
 - **Description:**  
@@ -30,7 +30,7 @@ A prototype designed to sense user interaction with a pill container using a UV 
 
 ---
 
-### 3. Client-Server System with Arduino and Raspberry Pi
+### 3. Client-Server System with Arduino and Raspberry Pi  
 A simple implementation of a client-server architecture for IoT communication.  
 - **Technology Used:** Raspberry Pi (Server), Arduino (Client), Python  
 - **Description:**  
@@ -42,7 +42,7 @@ A simple implementation of a client-server architecture for IoT communication.
 
 ---
 
-### 4. Object Detection with LED on Raspberry Pi
+### 4. Object Detection with LED on Raspberry Pi  
 An object detection system that uses computer vision and LEDs for visual feedback.  
 - **Technology Used:** Raspberry Pi, OpenCV, Python  
 - **Features:**
@@ -51,18 +51,18 @@ An object detection system that uses computer vision and LEDs for visual feedbac
 
 ---
 
+### 5. ESP8266 Remote LED Control using Blynk  
+A Wi-Fi based system that allows remote LED control through the Blynk Cloud and mobile application.  
+- **Technology Used:** ESP8266 (NodeMCU), Blynk App, Blynk Cloud, Arduino IDE  
+- **Description:**  
+  The ESP8266 connects to Wi-Fi and communicates with the Blynk Cloud. A button widget in the Blynk app toggles an LED connected to the board.  
+- **Features:**
+  - Remote LED control over the internet  
+  - Uses Blynk Cloud for real-time communication  
+  - Simple circuit with only one GPIO pin  
+  - Good starting point for IoT cloud-based automation  
+
+---
+
 ## 📄 License
 This repository is licensed under the **Unlicense** — free and open for public use.
-
----
-
-## 👨‍💻 Author
-**Naman Srivastava**  
-[GitHub Profile](https://github.com/naman-0804)
-
----
-
-## 🧰 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/naman-0804/IOT_PROJ
