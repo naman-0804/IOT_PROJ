@@ -1,6 +1,6 @@
 # Client Server Projects
 
-This repository contains multiple IoT-based client-server projects built using Arduino and Raspberry Pi. Each project focuses on real-time data collection, monitoring, and communication between client and server devices.
+This repository contains multiple IoT-based client-server projects built using Arduino,Raspberry Pi and ESP. Each project focuses on real-time data collection, monitoring, and communication between client and server devices.
 
 ---
 
